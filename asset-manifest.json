@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card-creator/static/css/main.597817f2.css",
+    "main.js": "/card-creator/static/js/main.1eb49282.js",
+    "static/js/787.fa9a5f9f.chunk.js": "/card-creator/static/js/787.fa9a5f9f.chunk.js",
+    "index.html": "/card-creator/index.html",
+    "main.597817f2.css.map": "/card-creator/static/css/main.597817f2.css.map",
+    "main.1eb49282.js.map": "/card-creator/static/js/main.1eb49282.js.map",
+    "787.fa9a5f9f.chunk.js.map": "/card-creator/static/js/787.fa9a5f9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.597817f2.css",
+    "static/js/main.1eb49282.js"
+  ]
+}
